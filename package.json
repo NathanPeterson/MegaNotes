@@ -1,9 +1,9 @@
 {
-  "name": "MegaNote",
+  "name": "MeganoteSeed",
   "private": true,
   "version": "0.5.0",
-  "description": "An AngularJS 1.4 note-taking app.",
-  "repository": "git@github.com/NathanPeterson/MegaNote.git",
+  "description": "A starter project for an AngularJS 1.x note-taking app.",
+  "repository": "git@github.com/xternbootcamp16/meganote-seed.git",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.9",
